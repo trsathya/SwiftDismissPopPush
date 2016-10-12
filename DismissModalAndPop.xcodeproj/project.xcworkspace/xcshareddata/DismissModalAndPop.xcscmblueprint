@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "118BEC302316F8A727F83E97C14EA1D179E5F38A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "118BEC302316F8A727F83E97C14EA1D179E5F38A" : 9223372036854775807,
+    "AA59BD2EF2001BD5350025AB1DF0FE79BC7D338C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9619433-A46F-4C26-8B47-89A6F085FF6C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "118BEC302316F8A727F83E97C14EA1D179E5F38A" : "SwiftDismissPopPush\/",
+    "AA59BD2EF2001BD5350025AB1DF0FE79BC7D338C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DismissModalAndPop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DismissModalAndPop.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/trsathya\/SwiftDismissPopPush.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "118BEC302316F8A727F83E97C14EA1D179E5F38A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/trsathya\/go-apns-http-2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA59BD2EF2001BD5350025AB1DF0FE79BC7D338C"
+    }
+  ]
+}

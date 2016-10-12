@@ -22,11 +22,11 @@ class FirstNavViewController: UINavigationController {
     }
     
     @IBAction func dismissAndPop(sender : UIStoryboardSegue) {
-        self.topViewController.navigationController?.popViewControllerAnimated(true);
+        self.topViewController!.navigationController?.popViewControllerAnimated(true);
     }
 
     @IBAction func dismissPopAndPushView2(sender : UIStoryboardSegue) {
-        self.topViewController.navigationController?.popViewControllerAnimated(true);
+        self.topViewController!.navigationController?.popViewControllerAnimated(true);
         let firstView = self.topViewController as? FirstViewController
         firstView?.showView2()
     }
